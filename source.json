@@ -1,16 +1,20 @@
 {
-    "name":"MimyLab",
-    "id":"com.mimylab.vpm",
-    "url":"https://mimyquality.github.io/VPM-Repository/index.json",
-    "author":{
-        "email":"mimyquality@gmail.com",
-        "name":"Mimy Quality",
-        "url":"https://vpm.mimylab.com/"
+    "name": "MimyLab",
+    "id": "com.mimylab.vpm",
+    "url": "https://mimyquality.github.io/VPM-Repository/index.json",
+    "author": {
+        "email": "mimyquality@gmail.com",
+        "name": "Mimy Quality",
+        "url": "https://vpm.mimylab.com/"
     },
-    "description":"MimyLab's VPM utilities.",
-    "infoLink":{
-        "url":"https://mimyquality.github.io/VPM-Repository",
-        "text":"View on GitHub"
+    "description": "VPM utilities repository.",
+    "infoLink": {
+        "url": "https://github.com/mimyquality/VPM-Repository",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "mimyquality/FukuroUdon"
+    ],
+    "packages": []
 }
