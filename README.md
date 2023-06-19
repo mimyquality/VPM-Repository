@@ -1,4 +1,4 @@
-# Mimylab VPM Repository
+# MimyLab VPM Repository
 
 ## 概要
 
