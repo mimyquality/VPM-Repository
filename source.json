@@ -15,6 +15,7 @@
     "bannerUrl": "banner.png",
     "githubRepos": [
         "mimyquality/FukuroUdon",
+        "mimyquality/PenOptimizationUtility",
         "mimyquality/DynamicDragonDriveSystem"
     ],
     "packages": []
