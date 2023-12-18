@@ -6,6 +6,8 @@
 以下のVPMパッケージが含まれます。
 
 - [Fukuro Udon](https://github.com/mimyquality/FukuroUdon)
+- [Pen Optimization Utility](https://github.com/mimyquality/PenOptimizationUtility)
+- [Dynamic Dragon Drive System](https://github.com/mimyquality/DynamicDragonDriveSystem)
 
 ## 導入手順
 
