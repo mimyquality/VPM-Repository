@@ -11,7 +11,8 @@
 
 ## 導入手順
 
-VCC(VRChat Creator Companion)をインストール済みの場合、以下の**どちらか一つ**の手順を行うことでインポートできます。
+VCC(VRChat Creator Companion)または[ALCOM](https://vrc-get.anatawa12.com/ja/alcom/)をインストール済みの場合、以下の**どちらか一つ**の手順を行うことでインポートできます。  
+(ALCOMの場合、適宜読み替えてください。)  
 
 - <https://vpm.mimylab.com/> へアクセスし、「Add to VCC」から`https://vpm.mimylab.com/index.json`を追加
 - VCCのウィンドウで`Setting - Packages - Add Repository`の順に開き、`https://vpm.mimylab.com/index.json`を追加
