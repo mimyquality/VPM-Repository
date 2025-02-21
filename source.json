@@ -16,7 +16,8 @@
     "githubRepos": [
         "mimyquality/FukuroUdon",
         "mimyquality/PenOptimizationUtility",
-        "mimyquality/DynamicDragonDriveSystem"
+        "mimyquality/DynamicDragonDriveSystem",
+        "mimyquality/RaceAssemblyToolkit"
     ],
     "packages": []
 }
