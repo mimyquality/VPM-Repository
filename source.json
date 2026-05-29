@@ -17,7 +17,8 @@
         "mimyquality/FukuroUdon",
         "mimyquality/PenOptimizationUtility",
         "mimyquality/DynamicDragonDriveSystem",
-        "mimyquality/RaceAssemblyToolkit"
+        "mimyquality/RaceAssemblyToolkit",
+        "Narazaka/tmp-fallback-fonts-jp"
     ],
     "packages": []
 }
